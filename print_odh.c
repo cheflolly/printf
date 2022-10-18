@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * dec_to_oct - converts decimal to octal notation
+ * dec_to_oct - converts decimal to octal notation.
  * @num: number to be converted
  *
  * Return: characters printed

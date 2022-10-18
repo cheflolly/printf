@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_pointer - prints a pointer
+ * print_pointer - prints a pointer.
  * @p: pointer to be printed
  *
  * Return: number of characters printed

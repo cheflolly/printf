@@ -13,7 +13,7 @@ int print_num(long int n)
 	int chars_printed = 0;
 
 	x = 0;
-	base = 0;
+	base = 10;
 	if (n < 0)
 	{
 		chars_printed += _putchar(45);

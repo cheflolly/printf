@@ -5,6 +5,7 @@
 #include <stdarg.h>
 #include <unistd.h>
 
+int
 int _putchar(char c);
 int _printf(const char *format, ...);
 int print_binary(unsigned int num);

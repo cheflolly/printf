@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_S - prints a string with custom formatting
+ * print_S - prints a string with custom formatting.
  * @str: string to be formatted
  *
  * Return: number of chars printed

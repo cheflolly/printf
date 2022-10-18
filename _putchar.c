@@ -2,7 +2,7 @@
 
 /**
  * _putchar - writes the char c to stdout
- * @c: character to print
+ * @c: char to print
  *
  * Return: success 1, error -1
  */

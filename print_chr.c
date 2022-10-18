@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_string - prints string followed by a new line
+ * print_string - prints string followed by a new line.
  * @str: - pointer to char
  *
  * Return: - returns int

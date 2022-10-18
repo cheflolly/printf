@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_binary - prints decimal in binary
+ * print_binary - prints decimal in binary.
  * @num: integer to be converted
  *
  * Return: no of resulting binary characters
